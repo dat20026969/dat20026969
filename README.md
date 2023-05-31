@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lê Đức Đạt</h1>
+<h1 align="center">Hi 👋, I'm Lê Đức Đạt </h1>
 <h3 align="center">A young Vietnamese researcher and programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dat20026969&label=Profile%20views&color=0e75b6&style=flat" alt="dat20026969" /> </p>
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently studying on **NLP at FIT.HCMUS**
 
-- 🌱 I’m currently learning **AIO Vietnam**
+- 🌱 I’m currently learning **AI in AIO Vietnam Course**
 
 - 👯 I’m looking to collaborate on **NLP, Computer Vision**
 
 - 🤝 I’m looking for help with **NLP, Computer Vision**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything on: https://forms.gle/4sJhVKkvU37bNtqT8**
 
-- 📫 How to reach me **dat20026969@gmail.com**
+- 📫 How to reach me **: dat20026969@gmail.com**
 
-- ⚡ Fun fact **I think I'm reserved, kind, handsome**
+- ⚡ Fun fact **: I think I'm reserved, kind, handsome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

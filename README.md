@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **NLP, Computer Vision**
 
-- 💬 Ask me about **anything on: https://forms.gle/4sJhVKkvU37bNtqT8**
+- 💬 Ask me about **anything on: https://forms.gle/iTFHPV8E8C4Qgjst7**
 
 - 📫 How to reach me **: dat20026969@gmail.com**
 
